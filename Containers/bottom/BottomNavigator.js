@@ -20,7 +20,7 @@ const BottomNavigator = () => {
                 style={{
                   width: 20,
                   height: 20,
-                  tintColor: tabInfo.focused ? 'purple' : 'black',
+                  tintColor: tabInfo.focused ? 'grey' : 'black',
                 }}
               />
             );
@@ -39,7 +39,7 @@ const BottomNavigator = () => {
                 style={{
                   width: 20,
                   height: 20,
-                  tintColor: tabInfo.focused ? 'purple' : 'black',
+                  tintColor: tabInfo.focused ? 'grey' : 'black',
                 }}
               />
             );
@@ -58,7 +58,7 @@ const BottomNavigator = () => {
                 style={{
                   width: 20,
                   height: 20,
-                  tintColor: tabInfo.focused ? 'purple' : 'black',
+                  tintColor: tabInfo.focused ? 'grey' : 'black',
                 }}
               />
             );

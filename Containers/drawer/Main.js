@@ -7,8 +7,7 @@ import BottomNavigator from '../bottom/BottomNavigator';
 const Main = () => {
   return (
    <View style={{flex: 1}}>
-        {/* <MyTabs /> */}
-
+     
        <BottomNavigator />
      
     </View>
